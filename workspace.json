@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "joke-api": "apps/joke-api"
+  }
+}
